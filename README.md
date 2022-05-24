@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and coding 
 - 🌱 I’m currently a Mechatronics engineering student
 - 💞️ I’m looking to collaborate on python and arduino based projects
-- 📫 How to reach me through my email or linkedIn profile: https://www.linkedin.com/in/zainab-ishtiaq-ali-b1260a1b9
+- 📫 Reach me through my email or linkedIn profile: https://www.linkedin.com/in/zainab-ishtiaq-ali-b1260a1b9
 
 <!---
 ZainabIshtiaq2001/ZainabIshtiaq2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
